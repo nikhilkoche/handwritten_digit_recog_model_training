@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using Deep Learning(only model training)
+# Handwritten Digit Recognition using Deep Learning
 Jupyter Notebook for training Neural Network on MNIST data.
 This repository contains the ipynb for that trains a Neural Network on the MNIST Handwritten digits dataset. 
 
